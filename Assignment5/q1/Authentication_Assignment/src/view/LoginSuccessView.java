@@ -1,4 +1,4 @@
-package view;
+package Assignment5.q1.Authentication_Assignment.src.view;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
